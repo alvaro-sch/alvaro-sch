@@ -2,6 +2,8 @@
 
 I'm Alvaro Roy Schachner, a Computer Science undergraduate at FaMAFyC (UNC) with a bachelors degree in CS.
 
+Most of my recent personal projects can be found on [my gitlab](https://gitlab.com/users/alvaro.sch/projects) account.
+
 ### Interests
 
 - gpgpu
